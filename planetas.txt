@@ -6,3 +6,5 @@ Mercurio,
 Urano,
 Venus,
 Planeta x
+Marte,
+Netuno
