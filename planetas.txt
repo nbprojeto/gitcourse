@@ -1,3 +1,4 @@
 Terra,
-Marte,
-Jupter
+Jupter,
+Saturno,
+Plutao
