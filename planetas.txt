@@ -4,4 +4,7 @@ Saturno,
 Plutao,
 Mercurio,
 Urano,
-Venus
+Venus,
+Planeta x
+Marte,
+Netuno
