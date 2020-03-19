@@ -3,4 +3,5 @@ Jupter,
 Saturno,
 Plutao,
 Mercurio,
-Urano
+Urano,
+Venus
