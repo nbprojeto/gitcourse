@@ -2,4 +2,5 @@ Terra,
 Jupter,
 Saturno,
 Plutao,
-Mercurio
+Mercurio,
+Urano
