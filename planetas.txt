@@ -1,4 +1,5 @@
 Terra,
 Jupter,
 Saturno,
-Plutao
+Plutao,
+Mercurio
